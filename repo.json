@@ -1,0 +1,8 @@
+{
+  "name": "PhimPlus",
+  "description": "PhimPlus",
+  "manifestVersion": 8,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/xemphimhay/deptrai/builds/plugins.json"
+  ]
+}
