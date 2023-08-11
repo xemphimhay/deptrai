@@ -43,7 +43,7 @@ open class Ophim : MainAPI() {
     companion object {
         const val DOMAIN = "https://ophim1.com"
         const val DOMAIN_IMAGE = "https://img.ophim1.com/uploads/movies"
-        const val API_NAME = "Ophim"
+        const val API_NAME = "Ổ Phim"
         const val PREFIX_GENRE = "/v1/api/the-loai"
         const val PREFIX_COUNTRY = "/v1/api/quoc-gia"
         const val DOMAIN_DETAIL_MOVIE = "$DOMAIN/v1/api/phim"
