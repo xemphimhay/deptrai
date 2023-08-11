@@ -3,6 +3,6 @@
   "description": "PhimPlus",
   "manifestVersion": 8,
   "pluginLists": [
-    "https://raw.githubusercontent.com/motchill/deptrai/builds/plugins.json"
+    "https://raw.githubusercontent.com/xemphimhay/deptrai/builds/plugins.json"
   ]
 }
